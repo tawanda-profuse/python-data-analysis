@@ -16,6 +16,7 @@ All of the projects in this repository use Python, the modules used in this proj
 - [Flight Delays project](/flight-delays-project/main.py) - In this project, we work with airport flight data and explore how the day of week affects the likelihood of a delayed departure.
 - [Jean Pockets Project](/jean-pockets-project/main.py) - In this project, we analyze a dataset for the jean sizes of men and women. The file [jean-pocket-measurements.csv](/jean-pockets-project/jean-pocket-measurements.csv) shows pocket measurements for 20 popular brands. Four pairs of jeans from each brand were measured: men's and women's skinny and straight styles. All jeans were designated a 32-inch waistband.
 - [Largest Islands Project](/largest-islands-project/main.py) - In this project, we use a dataset named [largest-islands.csv](/largest-islands-project/largest-islands.csv) which contains information about the 100 largest islands in the world. The unit for the **area** column is km2. We then use this dataset to answer some questions and create a line graph that compares area and rank.
+- [Mondrian Art Project](/mondrian-art-project/main.py) - Piet Mondrian was a Dutch artist best known for his abstract, grid-like designs during the 1920s and 30s. In this project, we will explore Mondrian's quest for artistic simplicity and try our hands at detecting fake paintings falsely attributed to Mondrian. By representing art as data, we open up artistic analysis to a broad range of data science techniques.
 
 ## License
 
